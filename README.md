@@ -8,7 +8,7 @@ Hear game and movie dialogue in Arabic. Tarjuman listens to English dialogue fro
 
 **[حمّل أحدث نسخة لأندرويد · Download the latest Android version](https://github.com/ahmedsamyegy200-stack/tarjuman-app/releases/latest/download/Tarjuman.apk)**
 
-الموقع · Website: https://tarjuman.tarjuman-server.workers.dev
+الموقع · Website: https://tarjuman.app
 
 ### التثبيت
 1. حمّل الملف `Tarjuman.apk` من الرابط فوق.
